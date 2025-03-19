@@ -135,7 +135,7 @@ nav {
 
 /* Hero Section */
 header {
-    background: url('./bg-header.jpeg') no-repeat center center/cover;
+    background: #3498db;
     height: 100vh;
     display: flex;
     justify-content: center;
